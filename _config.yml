@@ -23,12 +23,12 @@ repository               : "isaacli13/isaacli.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "vantine_linked_in_2686021.jpg"
   name             : "Isaac Li"
   pronouns         : # example: "he/him"  
   bio              : "CS PhD Student"
   location         : "Los Angeles, California"
-  employer         : "University of Southern California"
+  employer         : "USC"
   uri              : # URL
   email            : "liisaac@usc.edu" 
 
