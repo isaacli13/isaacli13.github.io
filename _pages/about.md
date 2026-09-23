@@ -14,9 +14,10 @@ During my undergrad at the University of Rochester I was lucky to be advised by 
 Education
 ---
 **University of Southern California**  
-Ph.D. Computer Science  
+*Ph.D. Computer Science*
+
 **University of Rochester**  
-B.S. Mathematics, Honors with Highest Distinction  
+*B.S. Mathematics, Honors with Highest Distinction*  
 Honors Thesis: [Annihilating Pairs Inequalities in Orlicz Spaces](https://www.sas.rochester.edu/mth/undergraduate/honorspaperspdfs/issacli2025.pdf)  
-B.A. Economics, Honors with High Distinction  
-B.S. Computer Science, High Distinction  
+*B.A. Economics, Honors with High Distinction*  
+*B.S. Computer Science, High Distinction*  
