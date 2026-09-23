@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a CS PhD student at the University of Southern California advised by [Evi Micha](https://evi-micha.github.io/). My research interests lie broadly in CS Theory and EconCS, including algorithmic game theory, fair allocation, and computational social choice. I am also a Fellow of the [ORAI](https://sites.google.com/usc.edu/usc-nrt-orai/) NSF Research Traineeship.
+I am a CS PhD student at the University of Southern California, where I advised by [Evi Micha](https://evi-micha.github.io/). My research interests lie broadly in CS Theory and EconCS, including algorithmic game theory, fair allocation, and computational social choice. I am also an [ORAI Fellow](https://sites.google.com/usc.edu/usc-nrt-orai/).
+
+During my undergrad at the University of Rochester I was lucky to be advised by [Alex Iosevich](https://alexiosevich.com/), with whom I did mathematics research in Fourier analysis.
 
 Education
 ---
