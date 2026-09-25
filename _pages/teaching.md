@@ -9,8 +9,8 @@ University of Rochester
 
 **StemForAll Undergraduate Reserach Program**  
 *Program Instructor*
-  * Led research group investigating the relationship between the learnability of a signal with its “Fourier Ratio”
-  * Resulted in [The Fourier Ratio and Complexity of Signals](https://arxiv.org/abs/2511.19560)
+ - Led research group investigating the relationship between the learnability of a signal with its “Fourier Ratio”
+ - Resulted in [The Fourier Ratio and Complexity of Signals](https://arxiv.org/abs/2511.19560)
 
 **CSC 282 - Design and Analysis of Efficient Algorithms**  
 *Teaching Assistant*
